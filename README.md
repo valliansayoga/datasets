@@ -1,5 +1,5 @@
 # Datasets
-Contains all of the datasets I created
+Contains all of the datasets I created and from the internet
 
 **Disclaimer:**
 
